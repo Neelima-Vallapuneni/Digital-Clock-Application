@@ -36,6 +36,13 @@ ________________________________________
 
 •	JavaScript (ES6) – Logic and real-time updates
 ________________________________________
+**Live Demo**
+
+You can view the live deom of the project here:
+
+https://neelima-vallapuneni.github.io/Digital-Clock-Application/
+________________________________________
+
 **📂 Project Structure**
 
 digital-clock/
